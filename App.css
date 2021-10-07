@@ -1,0 +1,127 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  width:80px;
+  height: 100px;
+}
+
+.App-header {
+  background-color: rgb(34, 34, 34);
+  height: 150px;
+  padding: 20px;
+  color: rgb(85, 158, 91);
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+/* @keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
+
+.modal-lable{
+  width: 40px;
+  display:inline-block;
+
+}
+.addtodo{
+ 
+  max-width: 500px;
+  background-color: rgb(65, 65, 158);
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 20px;
+  color:white;
+  
+  box-shadow: 0 2px 6px rgba(0,0,0,.5);
+
+}
+.button {
+  background-color: #c0b6b6;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button:hover {
+background-color: #535362;
+}
+.modaledit{
+  width: 40%;
+  float:left;
+}
+/* .editbutton{
+  text-align: center;
+}
+.deletebutton{
+  margin-left: 1rem;
+  background-color: rgb(81, 81, 187);
+} */
+.TodoButton {
+  
+    background-color: #0e0a0b;
+    border: 2px solid #201e1e;
+    color: white;
+    height: 29px;
+    padding: 0 20px;
+    margin-bottom: 10px;
+  }
+  
+  #btnNewCustomer {
+    background-color: grey;
+  }
+  .App{
+    background-color: rgb(34, 34, 34);
+  height: 150px;
+  padding: 20px;
+  color: rgb(85, 158, 91);
+}
+.App-title {
+  font-size: 1.5em;
+}
+
+.App{
+ 
+  max-width: 500px;
+  background-color: rgb(65, 65, 158);
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,.5);
+
+}
+
+.editItem{
+  float: left;
+  text-align: left;
+  padding-right: 5px;
+  nav-right: auto; 
+}
+.deleteItem{
+  float: left;
+  text-align: right;
+  padding-right: 5px;
+  nav-right: auto; 
+}
+
+
+
+
+
+
+  
+  
+
+
