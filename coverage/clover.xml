@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1633529293472" clover="3.2.0">
+  <project timestamp="1633529293472" name="All files">
+    <metrics statements="95" coveredstatements="86" conditionals="10" coveredconditionals="8" methods="43" coveredmethods="35" elements="148" coveredelements="129" complexity="0" loc="95" ncloc="95" packages="7" files="19" classes="19"/>
+    <package name="src">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="59" count="3" type="stmt"/>
+      </file>
+      <file name="index.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.actions">
+      <metrics statements="11" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="4"/>
+      <file name="action-get-countries.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\actions\action-get-countries.js">
+        <metrics statements="10" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="4"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+      </file>
+      <file name="actionTypes.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\actions\actionTypes.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.component">
+      <metrics statements="63" coveredstatements="58" conditionals="6" coveredconditionals="4" methods="30" coveredmethods="25"/>
+      <file name="Container.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\Container.js">
+        <metrics statements="4" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="EditData.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\EditData.js">
+        <metrics statements="24" coveredstatements="24" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="10"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="36" count="5" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="53" count="13" type="stmt"/>
+        <line num="55" count="12" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="75" count="13" type="stmt"/>
+        <line num="104" count="6" type="stmt"/>
+      </file>
+      <file name="Form.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\Form.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="52" count="7" type="stmt"/>
+        <line num="66" count="5" type="stmt"/>
+      </file>
+      <file name="Header.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\Header.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="Modal.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\Modal.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="29" count="7" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="54" count="7" type="stmt"/>
+      </file>
+      <file name="SelectorApp.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\SelectorApp.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+      </file>
+      <file name="TodoApp.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\TodoApp.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="33" count="4" type="stmt"/>
+      </file>
+      <file name="regionCountryList.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\regionCountryList.js">
+        <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.component.common">
+      <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+      <file name="TodoButton.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\common\TodoButton.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+      </file>
+      <file name="TodoInput.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\common\TodoInput.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="commonDropDown.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\component\common\commonDropDown.js">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mock">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="countryRegionMock.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\mock\countryRegionMock.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.reducers">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="countriesReducer.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\reducers\countriesReducer.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="6" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="6" type="cond" truecount="3" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+      </file>
+      <file name="rootReducer.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\reducers\rootReducer.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.store">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="store.js" path="C:\Users\polamreddy.vasavi\Documents\GitHub\TODO-LIST\src\store\store.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
